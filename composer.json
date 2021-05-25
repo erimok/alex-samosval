@@ -1,0 +1,19 @@
+{
+    "name": "uladzislau_yermakou/arenda",
+    "description": "Landing page",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Uladzislau Yermakov",
+            "email": "erimokvl@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
